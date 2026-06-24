@@ -1,4 +1,4 @@
-# To move zeroes in the last of the list : 
+# To move zeroes in the last of the list [Array]: 
 
 def movezeroes(nums):
  nonzero=[]
