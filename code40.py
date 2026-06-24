@@ -1,4 +1,4 @@
-# To remove duplicate numbers from a sorted array without creating a new array :
+# To remove duplicate numbers from a sorted array without creating a new array [ Array ]:
 
 
 def removeduplicate(nums):
