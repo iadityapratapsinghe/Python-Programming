@@ -1,4 +1,4 @@
-# To find the index of a targeted number in an sorted array :
+# To find the index of a targeted number in an sorted array [Array]:
 
 def find(nums,target):
     for i in range(len(nums)):
